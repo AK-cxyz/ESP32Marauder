@@ -952,11 +952,11 @@
       #define BANNER_TEXT_SIZE 1
 
       #ifndef TFT_WIDTH
-        #define TFT_WIDTH 135
+        #define TFT_WIDTH 240
       #endif
 
       #ifndef TFT_HEIGHT
-        #define TFT_HEIGHT 240
+        #define TFT_HEIGHT 320
       #endif
 
       #define GRAPH_VERT_LIM TFT_HEIGHT/2 - 1
@@ -1031,7 +1031,7 @@
       #endif
 
       #ifndef TFT_HEIGHT
-        #define TFT_HEIGHT 240
+        #define TFT_HEIGHT 320
       #endif
 
       #define EXT_BUTTON_WIDTH 0
@@ -1109,8 +1109,8 @@
       #define SCREEN_ORIENTATION 1
 
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1183,8 +1183,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1257,8 +1257,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1326,8 +1326,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1396,8 +1396,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1448,7 +1448,7 @@
       #define BANNER_TEXT_SIZE 2
 
       #ifndef TFT_WIDTH
-        #define TFT_WIDTH 320
+        #define TFT_WIDTH 240
       #endif
 
       #ifndef TFT_HEIGHT
@@ -1468,8 +1468,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1539,8 +1539,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1610,8 +1610,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1681,8 +1681,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1753,8 +1753,8 @@
       #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
-      #define SCREEN_WIDTH TFT_WIDTH
-      #define SCREEN_HEIGHT TFT_HEIGHT
+      #define SCREEN_WIDTH TFT_HEIGHT
+      #define SCREEN_HEIGHT TFT_WIDTH
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_HEIGHT
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1816,11 +1816,11 @@
       #define BANNER_TEXT_SIZE 1
 
       #ifndef TFT_WIDTH
-        #define TFT_WIDTH 128
+        #define TFT_WIDTH 240
       #endif
 
       #ifndef TFT_HEIGHT
-        #define TFT_HEIGHT 128
+        #define TFT_HEIGHT 320
       #endif
 
       #define GRAPH_VERT_LIM TFT_HEIGHT/2 - 1
@@ -1830,8 +1830,8 @@
       #define SCREEN_ORIENTATION 1
 
       #define CHAR_WIDTH 6
-      #define SCREEN_WIDTH TFT_WIDTH // Originally 240
-      #define SCREEN_HEIGHT TFT_HEIGHT // Originally 320
+      #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
+      #define SCREEN_HEIGHT TFT_WIDTH // Originally 320
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_WIDTH
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1895,7 +1895,7 @@
       #endif
 
       #ifndef TFT_HEIGHT
-        #define TFT_HEIGHT 135
+        #define TFT_HEIGHT 320
       #endif
 
       #define GRAPH_VERT_LIM TFT_HEIGHT/2 - 1
@@ -1905,8 +1905,8 @@
       #define SCREEN_ORIENTATION 1
 
       #define CHAR_WIDTH 6
-      #define SCREEN_WIDTH TFT_WIDTH // Originally 240
-      #define SCREEN_HEIGHT TFT_HEIGHT // Originally 320
+      #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
+      #define SCREEN_HEIGHT TFT_WIDTH // Originally 320
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_WIDTH
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
@@ -1966,11 +1966,11 @@
       #define BANNER_TEXT_SIZE 1
 
       #ifndef TFT_WIDTH
-        #define TFT_WIDTH 128
+        #define TFT_WIDTH 240
       #endif
 
       #ifndef TFT_HEIGHT
-        #define TFT_HEIGHT 128
+        #define TFT_HEIGHT 320
       #endif
 
       #define GRAPH_VERT_LIM TFT_HEIGHT/2 - 1
@@ -1980,8 +1980,8 @@
       #define SCREEN_ORIENTATION 1
 
       #define CHAR_WIDTH 6
-      #define SCREEN_WIDTH TFT_WIDTH // Originally 240
-      #define SCREEN_HEIGHT TFT_HEIGHT // Originally 320
+      #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
+      #define SCREEN_HEIGHT TFT_WIDTH // Originally 320
       #define HEIGHT_1 TFT_WIDTH
       #define WIDTH_1 TFT_WIDTH
       #define STANDARD_FONT_CHAR_LIMIT (TFT_WIDTH/6) // number of characters on a single line with normal font
