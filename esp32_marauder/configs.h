@@ -916,7 +916,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
 
       #define CHAR_WIDTH 6
       #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
@@ -992,7 +992,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
 
       #define CHAR_WIDTH 6
       #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
@@ -1065,7 +1065,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
 
       #define CHAR_WIDTH 6
       #define SCREEN_WIDTH TFT_HEIGHT // 240 in landscape
@@ -1135,7 +1135,7 @@
 
       #define MAX_SCREEN_BUFFER 21
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
 
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1208,7 +1208,7 @@
 
       #define MAX_SCREEN_BUFFER 21
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1276,7 +1276,7 @@
 
       #define MAX_SCREEN_BUFFER 21
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1414,7 +1414,7 @@
 
       #define MAX_SCREEN_BUFFER 21
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1484,7 +1484,7 @@
 
       #define MAX_SCREEN_BUFFER 21
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1556,7 +1556,7 @@
 
       #define MAX_SCREEN_BUFFER 33
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1627,7 +1627,7 @@
 
       #define MAX_SCREEN_BUFFER 21
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1698,7 +1698,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1769,7 +1769,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1841,7 +1841,7 @@
 
       #define MAX_SCREEN_BUFFER 21
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_HEIGHT
@@ -1918,7 +1918,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
 
       #define CHAR_WIDTH 6
       #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
@@ -1993,7 +1993,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
 
       #define CHAR_WIDTH 6
       #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
@@ -2068,7 +2068,7 @@
 
       #define EXT_BUTTON_WIDTH 0
 
-      #define SCREEN_ORIENTATION 1
+      #define SCREEN_ORIENTATION 0
 
       #define CHAR_WIDTH 6
       #define SCREEN_WIDTH TFT_HEIGHT // Originally 240
