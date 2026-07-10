@@ -1180,7 +1180,7 @@
 
       #define MAX_SCREEN_BUFFER 21
 
-      #define SCREEN_ORIENTATION 0
+      #define SCREEN_ORIENTATION 1
     
       #define CHAR_WIDTH 12
       #define SCREEN_WIDTH TFT_WIDTH
